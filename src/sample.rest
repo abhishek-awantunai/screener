@@ -1,0 +1,3 @@
+GET http://localhost:4242/api/moglix/product/list
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZjI2ODlhNGRjYjIzZjZhYjA0NWM4NjAiLCJpYXQiOjE1OTg2MDkyNjJ9.YiH69dWrRELX61StDQVOXYQEJqcFKaF3Ii2P_KJsOTY

@@ -1,0 +1,298 @@
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-27T23:19:07.371Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-27T23:19:07.371Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T09:53:32.951Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-27T23:19:07.371Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-27T23:19:07.371Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T09:55:01.024Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T09:58:25.775Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T09:58:25.775Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T10:04:22.581Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T09:58:25.775Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T09:58:25.775Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T10:04:23.916Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:04:27.449Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:04:27.449Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T10:04:33.557Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:04:43.521Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:04:43.521Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T10:04:48.179Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:04:43.521Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:04:43.521Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T10:04:49.369Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:04:57.236Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:04:57.236Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T10:06:10.186Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:04:57.236Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:04:57.236Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T10:07:03.012Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:07:42.316Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:07:42.316Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T10:08:25.581Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:07:42.316Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:07:42.316Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T10:09:01.763Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:07:42.316Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:07:42.316Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T10:09:02.906Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:07:42.316Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:07:42.316Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T10:09:33.504Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:07:42.316Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:07:42.316Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T10:10:38.448Z"}
+error: undefined {"command":"SETEX","args":[{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:07:42.316Z","name":"Abhishek Kumar"},3600,{"role":0,"_id":"5f2689a4dcb23f6ab045c860","email":"abhishek@gmail.com","createdAt":"2020-08-02T09:38:44.251Z","updatedAt":"2020-08-28T10:07:42.316Z","name":"Abhishek Kumar"}],"timestamp":"2020-08-28T10:11:06.280Z"}
+error: undefined {"timestamp":"2020-08-28T10:14:02.971Z"}
+error: undefined {"timestamp":"2020-08-28T10:14:42.430Z"}
+error: undefined {"driver":true,"name":"MongoError","index":0,"code":11000,"timestamp":"2020-08-28T11:42:30.955Z"}
+error: undefined {"driver":true,"name":"MongoError","index":0,"code":11000,"timestamp":"2020-08-28T11:42:36.140Z"}
+error: undefined {"timestamp":"2020-08-28T11:43:42.040Z"}
+error: undefined {"timestamp":"2020-08-28T11:43:45.219Z"}
+error: undefined {"timestamp":"2020-08-28T11:43:49.107Z"}
+error: undefined {"timestamp":"2020-08-28T11:44:14.732Z"}
+error: undefined {"timestamp":"2020-08-28T11:44:34.980Z"}
+error: undefined {"timestamp":"2020-08-28T11:52:34.047Z"}
+error: undefined {"timestamp":"2020-08-28T11:58:24.323Z"}
+error: undefined {"timestamp":"2020-08-28T11:58:31.561Z"}
+error: undefined {"timestamp":"2020-08-28T11:58:35.569Z"}
+error: undefined {"timestamp":"2020-08-28T12:18:28.704Z"}
+error: undefined {"timestamp":"2020-08-28T12:19:04.677Z"}
+error: undefined {"timestamp":"2020-08-28T12:19:15.406Z"}
+error: undefined {"timestamp":"2020-08-28T12:19:16.321Z"}
+error: undefined {"timestamp":"2020-08-28T12:19:16.882Z"}
+error: undefined {"timestamp":"2020-08-28T12:19:17.546Z"}
+error: undefined {"timestamp":"2020-08-28T12:19:35.229Z"}
+error: undefined {"timestamp":"2020-08-28T12:19:44.573Z"}
+error: undefined {"timestamp":"2020-08-28T12:19:45.812Z"}
+error: undefined {"code":"ERR_HTTP_HEADERS_SENT","timestamp":"2020-08-29T08:27:18.162Z"}
+error: undefined {"timestamp":"2020-08-29T10:28:52.502Z"}
+error: undefined {"timestamp":"2020-08-29T11:37:45.115Z"}
+error: undefined {"timestamp":"2020-08-29T11:37:55.114Z"}
+error: undefined {"timestamp":"2020-08-29T11:38:07.651Z"}
+error: undefined {"timestamp":"2020-08-29T11:38:46.870Z"}
+error: undefined {"timestamp":"2020-08-29T11:39:28.129Z"}
+error: undefined {"timestamp":"2020-08-29T11:51:39.909Z"}
+error: undefined {"timestamp":"2020-08-29T11:54:52.411Z"}
+error: undefined {"timestamp":"2020-08-29T11:55:48.684Z"}
+error: undefined {"timestamp":"2020-08-29T11:56:29.919Z"}
+error: undefined {"timestamp":"2020-08-29T11:56:54.888Z"}
+error: undefined {"timestamp":"2020-08-29T11:57:29.835Z"}
+error: undefined {"timestamp":"2020-08-29T11:57:51.093Z"}
+error: undefined {"timestamp":"2020-08-29T12:19:19.415Z"}
+error: undefined {"timestamp":"2020-08-29T12:20:20.190Z"}
+error: undefined {"timestamp":"2020-08-29T12:21:07.138Z"}
+error: undefined {"code":"ERR_HTTP_HEADERS_SENT","timestamp":"2020-08-29T12:21:50.461Z"}
+error: undefined {"code":"ERR_HTTP_HEADERS_SENT","timestamp":"2020-08-29T12:22:28.430Z"}
+error: undefined {"timestamp":"2020-08-29T12:23:09.761Z"}
+error: undefined {"timestamp":"2020-08-29T12:23:49.416Z"}
+error: undefined {"timestamp":"2020-08-29T12:24:03.708Z"}
+error: undefined {"timestamp":"2020-08-29T12:24:30.439Z"}
+error: undefined {"timestamp":"2020-08-29T12:24:58.438Z"}
+error: undefined {"timestamp":"2020-08-29T12:26:52.432Z"}
+error: undefined {"timestamp":"2020-08-29T12:27:03.933Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-29T12:38:27.568Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-29T12:38:30.840Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-29T12:39:43.481Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-29T12:43:36.190Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-29T12:44:29.452Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-29T12:57:59.628Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-29T13:09:21.851Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-29T13:11:15.063Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-29T13:47:31.232Z"}
+error: undefined {"timestamp":"2020-08-30T02:05:20.764Z"}
+error: undefined {"stringValue":"\"image\"","kind":"ObjectId","value":"image","path":"_id","reason":{},"timestamp":"2020-08-30T02:28:14.412Z"}
+error: undefined {"stringValue":"\"image\"","kind":"ObjectId","value":"image","path":"_id","reason":{},"timestamp":"2020-08-30T02:28:27.308Z"}
+error: undefined {"stringValue":"\"image\"","kind":"ObjectId","value":"image","path":"_id","reason":{},"timestamp":"2020-08-30T02:28:28.846Z"}
+error: undefined {"timestamp":"2020-08-30T02:31:15.984Z"}
+error: undefined {"stringValue":"\"image\"","kind":"ObjectId","value":"image","path":"_id","reason":{},"timestamp":"2020-08-30T02:33:33.271Z"}
+error: undefined {"stringValue":"\"image\"","kind":"ObjectId","value":"image","path":"_id","reason":{},"timestamp":"2020-08-30T02:34:13.588Z"}
+error: undefined {"stringValue":"\"image\"","kind":"ObjectId","value":"image","path":"_id","reason":{},"timestamp":"2020-08-30T02:34:28.854Z"}
+error: undefined {"timestamp":"2020-08-30T02:40:53.709Z"}
+error: undefined {"timestamp":"2020-08-30T02:42:22.358Z"}
+error: undefined {"timestamp":"2020-08-30T02:42:25.917Z"}
+error: undefined {"timestamp":"2020-08-30T02:42:28.576Z"}
+error: undefined {"timestamp":"2020-08-30T02:42:30.422Z"}
+error: undefined {"timestamp":"2020-08-30T02:42:33.867Z"}
+error: undefined {"timestamp":"2020-08-30T02:42:38.034Z"}
+error: undefined {"timestamp":"2020-08-30T02:42:39.339Z"}
+error: undefined {"timestamp":"2020-08-30T02:42:46.588Z"}
+error: undefined {"timestamp":"2020-08-30T02:43:15.728Z"}
+error: undefined {"timestamp":"2020-08-30T02:44:18.499Z"}
+error: undefined {"timestamp":"2020-08-30T02:44:18.504Z"}
+error: undefined {"timestamp":"2020-08-30T02:58:33.801Z"}
+error: undefined {"timestamp":"2020-08-30T02:58:33.823Z"}
+error: undefined {"timestamp":"2020-08-30T02:58:38.666Z"}
+error: undefined {"timestamp":"2020-08-30T02:58:49.566Z"}
+error: undefined {"timestamp":"2020-08-30T02:58:49.587Z"}
+error: undefined {"timestamp":"2020-08-30T02:58:55.189Z"}
+error: undefined {"timestamp":"2020-08-30T02:59:03.364Z"}
+error: undefined {"timestamp":"2020-08-30T02:59:03.366Z"}
+error: undefined {"timestamp":"2020-08-30T02:59:07.869Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-30T03:13:37.332Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-30T03:14:00.167Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-30T03:14:11.234Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-30T08:26:14.939Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-30T08:26:50.585Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-30T08:27:29.789Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-30T08:28:04.695Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-30T08:29:58.026Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-30T08:39:52.725Z"}
+error: undefined {"stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"timestamp":"2020-08-30T08:41:21.975Z"}
+error: undefined {"timestamp":"2020-09-02T08:52:55.315Z"}
+error: undefined {"driver":true,"name":"MongoError","index":0,"code":11000,"timestamp":"2020-09-02T08:53:26.567Z"}
+error: undefined {"timestamp":"2020-09-02T08:53:40.011Z"}
+error: undefined {"timestamp":"2020-09-02T08:54:01.042Z"}
+error: undefined {"driver":true,"name":"MongoError","index":0,"code":11000,"timestamp":"2020-09-02T09:04:39.745Z"}
+error: undefined {"errors":{"role":{"stringValue":"\"admin\"","kind":"Number","value":"admin","path":"role","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"User validation failed","timestamp":"2020-09-02T10:45:19.909Z"}
+error: undefined {"driver":true,"name":"MongoError","index":0,"code":11000,"timestamp":"2020-09-02T17:02:59.842Z"}
+error: undefined {"errors":{"password":{"name":"ValidatorError","message":"Path `password` (`yyhu87`) is shorter than the minimum allowed length (8).","properties":{"message":"Path `password` (`yyhu87`) is shorter than the minimum allowed length (8).","type":"minlength","minlength":8,"path":"password","value":"yyhu87"},"kind":"minlength","path":"password","value":"yyhu87"}},"_message":"User validation failed","timestamp":"2020-09-02T17:26:50.906Z"}
+error: undefined {"errors":{"password":{"name":"ValidatorError","message":"Path `password` (`yyhu87`) is shorter than the minimum allowed length (8).","properties":{"message":"Path `password` (`yyhu87`) is shorter than the minimum allowed length (8).","type":"minlength","minlength":8,"path":"password","value":"yyhu87"},"kind":"minlength","path":"password","value":"yyhu87"}},"_message":"User validation failed","timestamp":"2020-09-02T17:26:52.235Z"}
+error: undefined {"errors":{"password":{"name":"ValidatorError","message":"Path `password` (`uyg78`) is shorter than the minimum allowed length (8).","properties":{"message":"Path `password` (`uyg78`) is shorter than the minimum allowed length (8).","type":"minlength","minlength":8,"path":"password","value":"uyg78"},"kind":"minlength","path":"password","value":"uyg78"},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":8,"reason":{}},"kind":"user defined","path":"role","value":8,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-02T17:29:52.870Z"}
+error: undefined {"errors":{"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password"},"kind":"required","path":"password"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name"},"kind":"required","path":"l_name"},"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name"},"kind":"required","path":"f_name"}},"_message":"User validation failed","timestamp":"2020-09-02T17:32:27.509Z"}
+error: undefined {"errors":{"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password"},"kind":"required","path":"password"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name"},"kind":"required","path":"l_name"},"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name"},"kind":"required","path":"f_name"}},"_message":"User validation failed","timestamp":"2020-09-02T17:33:50.432Z"}
+error: undefined {"errors":{"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password"},"kind":"required","path":"password"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name"},"kind":"required","path":"l_name"},"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name"},"kind":"required","path":"f_name"}},"_message":"User validation failed","timestamp":"2020-09-02T17:39:14.115Z"}
+error: undefined {"errors":{"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password"},"kind":"required","path":"password"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name"},"kind":"required","path":"l_name"},"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name"},"kind":"required","path":"f_name"}},"_message":"User validation failed","timestamp":"2020-09-03T03:14:01.822Z"}
+error: undefined {"errors":{"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password"},"kind":"required","path":"password"},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email"},"kind":"required","path":"email"},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name"},"kind":"required","path":"l_name"},"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name"},"kind":"required","path":"f_name"}},"_message":"User validation failed","timestamp":"2020-09-03T03:16:28.750Z"}
+error: undefined {"errors":{"password":{"name":"ValidatorError","message":"Path `password` (`ght65`) is shorter than the minimum allowed length (8).","properties":{"message":"Path `password` (`ght65`) is shorter than the minimum allowed length (8).","type":"minlength","minlength":8,"path":"password","value":"ght65"},"kind":"minlength","path":"password","value":"ght65"}},"_message":"User validation failed","timestamp":"2020-09-03T04:10:17.537Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email","value":null},"kind":"required","path":"email","value":null},"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password","value":null},"kind":"required","path":"password","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-03T04:30:56.029Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email","value":null},"kind":"required","path":"email","value":null},"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password","value":null},"kind":"required","path":"password","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-03T04:30:56.035Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email","value":null},"kind":"required","path":"email","value":null},"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password","value":null},"kind":"required","path":"password","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-03T04:30:56.040Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email","value":null},"kind":"required","path":"email","value":null},"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password","value":null},"kind":"required","path":"password","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-03T04:30:56.049Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email","value":null},"kind":"required","path":"email","value":null},"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password","value":null},"kind":"required","path":"password","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-03T04:30:56.563Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email","value":null},"kind":"required","path":"email","value":null},"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password","value":null},"kind":"required","path":"password","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-03T04:30:56.565Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email","value":null},"kind":"required","path":"email","value":null},"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password","value":null},"kind":"required","path":"password","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-03T04:30:56.566Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email","value":null},"kind":"required","path":"email","value":null},"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password","value":null},"kind":"required","path":"password","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-03T04:30:56.568Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email","value":null},"kind":"required","path":"email","value":null},"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password","value":null},"kind":"required","path":"password","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-03T04:30:56.579Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email","value":null},"kind":"required","path":"email","value":null},"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password","value":null},"kind":"required","path":"password","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-03T04:30:56.585Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email","value":null},"kind":"required","path":"email","value":null},"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password","value":null},"kind":"required","path":"password","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-03T04:30:56.591Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email","value":null},"kind":"required","path":"email","value":null},"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password","value":null},"kind":"required","path":"password","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-03T04:30:58.938Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"email":{"name":"ValidatorError","message":"Path `email` is required.","properties":{"message":"Path `email` is required.","type":"required","path":"email","value":null},"kind":"required","path":"email","value":null},"password":{"name":"ValidatorError","message":"Path `password` is required.","properties":{"message":"Path `password` is required.","type":"required","path":"password","value":null},"kind":"required","path":"password","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-03T04:31:00.578Z"}
+error: undefined {"timestamp":"2020-09-03T10:53:33.733Z"}
+error: undefined {"timestamp":"2020-09-03T11:01:19.828Z"}
+error: undefined {"timestamp":"2020-09-03T11:02:21.039Z"}
+error: undefined {"timestamp":"2020-09-03T11:06:12.670Z"}
+error: undefined {"timestamp":"2020-09-04T03:35:52.929Z"}
+error: undefined {"timestamp":"2020-09-04T03:35:52.931Z"}
+error: jwt malformed {"name":"JsonWebTokenError","timestamp":"2020-09-04T03:40:49.583Z"}
+error: jwt malformed {"name":"JsonWebTokenError","timestamp":"2020-09-04T03:40:49.585Z"}
+error: undefined {"timestamp":"2020-09-04T03:44:04.297Z"}
+error: undefined {"timestamp":"2020-09-04T03:44:04.298Z"}
+error: undefined {"timestamp":"2020-09-04T03:45:43.724Z"}
+error: undefined {"timestamp":"2020-09-04T03:47:08.702Z"}
+error: undefined {"timestamp":"2020-09-04T03:51:41.906Z"}
+error: undefined {"timestamp":"2020-09-04T05:07:07.786Z"}
+error: undefined {"timestamp":"2020-09-04T05:23:23.101Z"}
+error: undefined {"timestamp":"2020-09-04T05:23:43.671Z"}
+error: undefined {"timestamp":"2020-09-04T05:23:55.043Z"}
+error: undefined {"timestamp":"2020-09-04T05:24:39.744Z"}
+error: undefined {"timestamp":"2020-09-04T05:25:28.766Z"}
+error: undefined {"timestamp":"2020-09-04T05:29:04.190Z"}
+error: undefined {"timestamp":"2020-09-04T05:29:08.748Z"}
+error: undefined {"timestamp":"2020-09-04T05:29:16.141Z"}
+error: undefined {"timestamp":"2020-09-04T05:29:32.698Z"}
+error: undefined {"timestamp":"2020-09-04T05:29:37.714Z"}
+error: undefined {"timestamp":"2020-09-04T05:29:42.854Z"}
+error: undefined {"timestamp":"2020-09-04T05:29:46.334Z"}
+error: undefined {"timestamp":"2020-09-04T05:30:17.494Z"}
+error: undefined {"timestamp":"2020-09-04T05:30:19.422Z"}
+error: undefined {"timestamp":"2020-09-04T05:34:22.467Z"}
+error: undefined {"timestamp":"2020-09-04T05:34:34.320Z"}
+error: undefined {"timestamp":"2020-09-04T05:35:05.625Z"}
+error: undefined {"timestamp":"2020-09-04T05:35:47.977Z"}
+error: undefined {"timestamp":"2020-09-04T05:36:05.108Z"}
+error: undefined {"timestamp":"2020-09-04T05:37:15.722Z"}
+error: undefined {"timestamp":"2020-09-04T05:37:18.952Z"}
+error: undefined {"timestamp":"2020-09-04T05:37:34.614Z"}
+error: undefined {"timestamp":"2020-09-04T05:37:38.074Z"}
+error: undefined {"timestamp":"2020-09-04T05:37:43.273Z"}
+error: undefined {"timestamp":"2020-09-04T05:37:55.941Z"}
+error: undefined {"timestamp":"2020-09-04T05:38:14.165Z"}
+error: undefined {"timestamp":"2020-09-04T05:38:17.296Z"}
+error: undefined {"timestamp":"2020-09-04T05:38:36.741Z"}
+error: undefined {"timestamp":"2020-09-04T05:38:56.782Z"}
+error: undefined {"timestamp":"2020-09-04T05:39:10.933Z"}
+error: undefined {"timestamp":"2020-09-04T05:39:14.335Z"}
+error: undefined {"timestamp":"2020-09-04T05:39:16.222Z"}
+error: undefined {"timestamp":"2020-09-04T05:39:17.590Z"}
+error: undefined {"timestamp":"2020-09-04T05:39:22.121Z"}
+error: undefined {"timestamp":"2020-09-04T05:39:30.796Z"}
+error: undefined {"timestamp":"2020-09-04T05:39:32.107Z"}
+error: undefined {"timestamp":"2020-09-04T05:39:34.585Z"}
+error: undefined {"timestamp":"2020-09-04T05:39:36.918Z"}
+error: undefined {"timestamp":"2020-09-04T05:39:40.000Z"}
+error: undefined {"timestamp":"2020-09-04T05:40:02.831Z"}
+error: undefined {"timestamp":"2020-09-04T05:40:06.639Z"}
+error: undefined {"timestamp":"2020-09-04T05:40:09.283Z"}
+error: undefined {"timestamp":"2020-09-04T05:40:11.333Z"}
+error: undefined {"timestamp":"2020-09-04T05:40:14.703Z"}
+error: undefined {"timestamp":"2020-09-04T05:40:17.432Z"}
+error: undefined {"timestamp":"2020-09-04T05:40:22.211Z"}
+error: undefined {"timestamp":"2020-09-04T05:40:24.626Z"}
+error: undefined {"timestamp":"2020-09-04T05:40:34.507Z"}
+error: undefined {"timestamp":"2020-09-04T05:40:36.653Z"}
+error: undefined {"timestamp":"2020-09-04T05:40:39.932Z"}
+error: undefined {"timestamp":"2020-09-04T05:41:04.097Z"}
+error: undefined {"timestamp":"2020-09-04T05:41:08.881Z"}
+error: undefined {"timestamp":"2020-09-04T05:41:30.142Z"}
+error: undefined {"timestamp":"2020-09-04T05:41:33.259Z"}
+error: undefined {"timestamp":"2020-09-04T05:41:38.939Z"}
+error: undefined {"timestamp":"2020-09-04T05:41:49.719Z"}
+error: undefined {"timestamp":"2020-09-04T05:41:52.950Z"}
+error: undefined {"timestamp":"2020-09-04T05:41:54.756Z"}
+error: undefined {"timestamp":"2020-09-04T05:48:48.074Z"}
+error: undefined {"timestamp":"2020-09-04T05:50:06.983Z"}
+error: undefined {"timestamp":"2020-09-04T05:50:08.816Z"}
+error: undefined {"timestamp":"2020-09-04T05:50:16.944Z"}
+error: undefined {"timestamp":"2020-09-04T05:50:47.486Z"}
+error: undefined {"timestamp":"2020-09-04T05:55:33.003Z"}
+error: undefined {"timestamp":"2020-09-04T06:09:42.314Z"}
+error: undefined {"timestamp":"2020-09-04T06:09:51.538Z"}
+error: undefined {"timestamp":"2020-09-04T06:10:56.389Z"}
+error: undefined {"timestamp":"2020-09-04T06:11:04.721Z"}
+error: undefined {"timestamp":"2020-09-04T06:11:59.853Z"}
+error: undefined {"timestamp":"2020-09-04T06:12:33.435Z"}
+error: undefined {"timestamp":"2020-09-04T06:12:38.819Z"}
+error: undefined {"timestamp":"2020-09-04T06:12:44.437Z"}
+error: undefined {"timestamp":"2020-09-04T06:12:48.257Z"}
+error: undefined {"timestamp":"2020-09-04T06:12:52.616Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:15:22.713Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:22:06.424Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:22:20.695Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:22:33.408Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:31:11.646Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:31:21.579Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:31:36.369Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:32:44.414Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:32:53.638Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:33:09.157Z"}
+error: undefined {"timestamp":"2020-09-04T06:33:18.946Z"}
+error: undefined {"timestamp":"2020-09-04T06:33:26.413Z"}
+error: undefined {"timestamp":"2020-09-04T06:34:58.098Z"}
+error: undefined {"timestamp":"2020-09-04T06:35:08.322Z"}
+error: undefined {"timestamp":"2020-09-04T06:35:32.313Z"}
+error: undefined {"timestamp":"2020-09-04T06:35:48.131Z"}
+error: jwt malformed {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:36:03.566Z"}
+error: jwt malformed {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:36:13.073Z"}
+error: jwt malformed {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:37:06.911Z"}
+error: jwt malformed {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:38:45.983Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:41:19.065Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:41:42.643Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:45:33.044Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:45:40.191Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:45:52.064Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:46:07.573Z"}
+error: jwt malformed {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:47:39.097Z"}
+error: jwt malformed {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:47:48.857Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:48:52.627Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:49:01.149Z"}
+error: jwt malformed {"name":"JsonWebTokenError","timestamp":"2020-09-04T06:50:54.906Z"}
+error: undefined {"errors":{"email":{"name":"ValidatorError","message":"Enter correct email address","properties":{"message":"Enter correct email address","type":"user defined","path":"email","value":"p@p","reason":{}},"kind":"user defined","path":"email","value":"p@p","reason":{}},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":6,"reason":{}},"kind":"user defined","path":"role","value":6,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-04T10:23:56.685Z"}
+error: undefined {"errors":{"email":{"name":"ValidatorError","message":"Enter correct email address","properties":{"message":"Enter correct email address","type":"user defined","path":"email","value":"p@p","reason":{}},"kind":"user defined","path":"email","value":"p@p","reason":{}},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":6,"reason":{}},"kind":"user defined","path":"role","value":6,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-04T10:24:26.928Z"}
+error: undefined {"errors":{"email":{"name":"ValidatorError","message":"Enter correct email address","properties":{"message":"Enter correct email address","type":"user defined","path":"email","value":"piku34.co.in","reason":{}},"kind":"user defined","path":"email","value":"piku34.co.in","reason":{}}},"_message":"User validation failed","timestamp":"2020-09-04T10:36:09.438Z"}
+error: undefined {"timestamp":"2020-09-05T07:20:56.382Z"}
+error: undefined {"timestamp":"2020-09-05T07:22:22.328Z"}
+error: undefined {"timestamp":"2020-09-05T07:22:43.870Z"}
+error: undefined {"timestamp":"2020-09-05T07:23:22.597Z"}
+error: undefined {"timestamp":"2020-09-05T07:24:14.327Z"}
+error: undefined {"timestamp":"2020-09-05T07:24:55.662Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-05T07:25:31.515Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-05T07:25:58.948Z"}
+error: undefined {"timestamp":"2020-09-05T07:26:46.876Z"}
+error: undefined {"timestamp":"2020-09-06T04:28:31.129Z"}
+error: undefined {"timestamp":"2020-09-06T06:46:45.561Z"}
+error: undefined {"timestamp":"2020-09-06T09:39:35.927Z"}
+error: undefined {"timestamp":"2020-09-06T09:39:38.817Z"}
+error: undefined {"timestamp":"2020-09-06T09:39:41.186Z"}
+error: undefined {"version":96,"modifiedPaths":["tokens"],"timestamp":"2020-09-06T09:46:24.594Z"}
+error: undefined {"version":53,"modifiedPaths":["tokens"],"timestamp":"2020-09-06T09:47:19.598Z"}
+error: undefined {"timestamp":"2020-09-07T03:15:03.753Z"}
+error: undefined {"timestamp":"2020-09-07T03:15:08.223Z"}
+error: undefined {"timestamp":"2020-09-07T04:10:09.772Z"}
+error: undefined {"errors":{"email":{"name":"ValidatorError","message":"Enter correct email address","properties":{"message":"Enter correct email address","type":"user defined","path":"email","value":"pnishi000@","reason":{}},"kind":"user defined","path":"email","value":"pnishi000@","reason":{}}},"_message":"User validation failed","timestamp":"2020-09-07T07:48:42.699Z"}
+error: undefined {"errors":{"email":{"name":"ValidatorError","message":"Enter correct email address","properties":{"message":"Enter correct email address","type":"user defined","path":"email","value":"pnishi000@","reason":{}},"kind":"user defined","path":"email","value":"pnishi000@","reason":{}}},"_message":"User validation failed","timestamp":"2020-09-07T07:49:23.380Z"}
+error: undefined {"errors":{"email":{"name":"ValidatorError","message":"Enter correct email address","properties":{"message":"Enter correct email address","type":"user defined","path":"email","value":"pnishi2000@","reason":{}},"kind":"user defined","path":"email","value":"pnishi2000@","reason":{}}},"_message":"User validation failed","timestamp":"2020-09-07T07:52:31.134Z"}
+error: undefined {"errors":{"email":{"name":"ValidatorError","message":"Enter correct email address","properties":{"message":"Enter correct email address","type":"user defined","path":"email","value":"pnishi2000@","reason":{}},"kind":"user defined","path":"email","value":"pnishi2000@","reason":{}}},"_message":"User validation failed","timestamp":"2020-09-07T07:55:12.012Z"}
+error: undefined {"errors":{"email":{"name":"ValidatorError","message":"Enter correct email address","properties":{"message":"Enter correct email address","type":"user defined","path":"email","value":"pnishi2000@","reason":{}},"kind":"user defined","path":"email","value":"pnishi2000@","reason":{}}},"_message":"User validation failed","timestamp":"2020-09-07T07:57:34.426Z"}
+error: undefined {"driver":true,"name":"MongoError","index":0,"code":11000,"timestamp":"2020-09-07T08:01:16.770Z"}
+error: undefined {"errors":{"f_name":{"name":"ValidatorError","message":"Path `f_name` is required.","properties":{"message":"Path `f_name` is required.","type":"required","path":"f_name","value":null},"kind":"required","path":"f_name","value":null},"l_name":{"name":"ValidatorError","message":"Path `l_name` is required.","properties":{"message":"Path `l_name` is required.","type":"required","path":"l_name","value":null},"kind":"required","path":"l_name","value":null},"role":{"name":"ValidatorError","message":"Role can only be 0 or 1","properties":{"message":"Role can only be 0 or 1","type":"user defined","path":"role","value":null,"reason":{}},"kind":"user defined","path":"role","value":null,"reason":{}}},"_message":"User validation failed","timestamp":"2020-09-07T08:15:30.230Z"}
+error: undefined {"driver":true,"name":"MongoError","index":0,"code":11000,"timestamp":"2020-09-07T08:21:26.348Z"}
+error: undefined {"timestamp":"2020-09-08T08:49:22.621Z"}
+error: undefined {"timestamp":"2020-09-08T08:50:20.953Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-08T08:52:58.829Z"}
+error: invalid token {"name":"JsonWebTokenError","timestamp":"2020-09-09T07:47:39.011Z"}
+error: undefined {"timestamp":"2020-09-10T09:31:29.332Z"}
+error: undefined {"timestamp":"2020-09-12T03:49:26.547Z"}
+error: undefined {"timestamp":"2020-09-12T03:49:36.607Z"}
+error: undefined {"timestamp":"2020-09-12T03:49:47.773Z"}
+error: undefined {"timestamp":"2020-09-12T03:49:56.207Z"}
